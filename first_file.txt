@@ -4,3 +4,5 @@ Add a third line
 - Change figure one code
 
 Add a fourth line
+
+I am gonna add figure 7
