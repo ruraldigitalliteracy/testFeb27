@@ -6,3 +6,4 @@ Add a third line
 Add a fourth line
 
 I am gonna add figure 7
+i have added 2 figures and 1 reference
